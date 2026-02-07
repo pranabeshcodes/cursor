@@ -7,9 +7,9 @@ The project focuses on recreating the visual layout, sections, and styling of th
 ---
 
 > Live Demo : 
-https://cursor-git-main-pranabesh-singha-roys-projects.vercel.app
+- https://cursor-git-main-pranabesh-singha-roys-projects.vercel.app
 
-https://pranabeshcodes.github.io/cursor/ 
+- https://pranabeshcodes.github.io/cursor/ 
 
 ---
 
