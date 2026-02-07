@@ -4,9 +4,12 @@ This is a static UI clone of the Cursor landing page built using only **HTML and
 The project focuses on recreating the visual layout, sections, and styling of the Cursor website for learning and practice purposes.
 
 > ⚠️ This is a front-end UI clone only. No JavaScript functionality is implemented.
+---
 
-> Live Demo :
+> Live Demo : 
 https://cursor-git-main-pranabesh-singha-roys-projects.vercel.app
+
+https://pranabeshcodes.github.io/cursor/ 
 
 ---
 
