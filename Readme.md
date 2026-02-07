@@ -5,6 +5,9 @@ The project focuses on recreating the visual layout, sections, and styling of th
 
 > ⚠️ This is a front-end UI clone only. No JavaScript functionality is implemented.
 
+> Live Demo :
+https://cursor-git-main-pranabesh-singha-roys-projects.vercel.app
+
 ---
 
 ## 🚀 Features
