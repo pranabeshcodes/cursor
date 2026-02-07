@@ -5,6 +5,18 @@ The project focuses on recreating the visual layout, sections, and styling of th
 
 > ⚠️ This is a front-end UI clone only. No JavaScript functionality is implemented.
 
+---
+## 🔗 Live Demo
+
+- **GitHub Pages:**  
+  👉 https://pranabeshcodes.github.io/cursor/
+
+- **Vercel:**  
+  👉 https://cursor-git-main-pranabesh-singha-roys-projects.vercel.app/
+
+---
+
+
 ## 🚀 Features
 
 - Responsive navigation bar (Navbar)
